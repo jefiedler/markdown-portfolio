@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*das ist kursiv*
+_das ist auch Kursiv_
+
+**das ist fett**
+__das ist auch fett__
+
